@@ -89,7 +89,8 @@ def display():
       glVertex2d(2*cos(angle), 2*sin(angle))
       angle = angle + da
    glEnd()      
-   
+   print "welcome to python"
+   print "welcome to pygtk"
    glPopMatrix()
    glutSwapBuffers()
    
