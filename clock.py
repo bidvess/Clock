@@ -91,6 +91,7 @@ def display():
    glEnd()      
    print "welcome to python"
    print "welcome to pygtk"
+   print "sssssssss"
    glPopMatrix()
    glutSwapBuffers()
    
